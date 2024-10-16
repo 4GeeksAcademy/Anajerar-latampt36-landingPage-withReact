@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.desk-cards {
+    display: flex;
+    margin:auto;
+    padding:5px;
+}
+
+.mobile-cards {
+    display: inline-block;
+    margin:auto;
+}
